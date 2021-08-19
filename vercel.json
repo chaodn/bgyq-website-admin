@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-      {"src": "/(.*)","dest": "https://{DOMAIN}/$1"}
+      {"src": "/(.*)","dest": "https://bgyq-website-admin.chaodn.workers.dev/$1"}
   ]
 }
